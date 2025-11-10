@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="150" viewBox="0 0 200 150" fill="none">
+  <rect width="200" height="150" fill="#f8f9fa" rx="8"/>
+  <text x="100" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#6c757d">404</text>
+  <text x="100" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">Page Not Found</text>
+  <circle cx="70" cy="110" r="3" fill="#dee2e6"/>
+  <circle cx="100" cy="110" r="3" fill="#dee2e6"/>
+  <circle cx="130" cy="110" r="3" fill="#dee2e6"/>
+</svg>
